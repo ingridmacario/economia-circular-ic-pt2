@@ -23,7 +23,7 @@ O artigo pode ser lido no link: [BIM como fomento para uma economia circular na 
 </div>
 
 #
-## 📁 Arquivos
+## 📁 ARQUIVOS
 * **projeto_ic_pandas.py:** Arquivo Python que contém as análises referentes à parte 2;
 * **projeto_ic_pandas.ipynb:** Notebook que contém as análises referentes à parte 2;
 * **Projeto02.csv:** Banco de dados utilizado no projeto.
